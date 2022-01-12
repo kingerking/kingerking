@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on open source software.
+- 📫 How to reach me: kingerkyleking@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **kingerking/kingerking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
