@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on utils.digital and other side projects.
 - 👯 I’m looking to collaborate on open source software.
-- 📫 How to reach me: kingerkyleking@gmail.com
 <!--
 **kingerking/kingerking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
