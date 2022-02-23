@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on utils.digital and other side projects.
+- 🔭 I’m currently working on my personal side projects, team side project(s).
 - 👯 I’m looking to collaborate on open source software.
+- Ask me about React, Express, Node.js, Next.JS, MongoDB or Socket.io(MERN stack or JAM).
+- Im looking for help with nothing. Im a coding beast 🙄 Just kidding! I could use help with the Rust language. And potentially general design patterns as i primarly focus on the backend sort of things.
+- You can reach me on my portfolio website https://kylekinger.com.
+- Im currently looking to learn Rust so i can write some custom Web Assembly modules for my up and coming project that would greatly benifit from Web Assembly.
 <!--
 **kingerking/kingerking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
